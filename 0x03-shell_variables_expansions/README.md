@@ -1,0 +1,1 @@
+_These scripts are all about Shell vaiables and expansions_
